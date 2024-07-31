@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\12201880\\Documents\\CadastroPassoas1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CadastroPassoas1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CadastroPassoas1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\12201880\\Documents\\CadastroPassoas1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\12201880\\Documents\\CadastroPassoas1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\12201880\\Documents\\CadastroPassoas1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\12201880\\Documents\\CadastroPassoas1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CadastroPassoas1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CadastroPassoas1.props",
+      "PackagePath": "build\\CadastroPassoas1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CadastroPassoas1.props",
+      "PackagePath": "buildMultiTargeting\\CadastroPassoas1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CadastroPassoas1.props",
+      "PackagePath": "buildTransitive\\CadastroPassoas1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
